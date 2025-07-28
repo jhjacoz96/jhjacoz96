@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Jhon Contreras</h1>
-<p align="center">💻 Full-Stack Developer · Vue.js & Laravel Specialist · Apasionado por construir soluciones escalables</p>
+<p align="center">💻 Full-Stack Developer · Vue · Laravel · Node.js · Express.js · JavaScript Lover</p>
 
 <br>
 
@@ -15,14 +15,16 @@
   </a>
 </p>
 
-<br>
+---
 
 ## Sobre mí 😄
 
 🎓 **Ingeniero en Informática** con más de 4 años de experiencia como desarrollador **Full-Stack**  
-🌍 He trabajado en plataformas SaaS y soluciones web en sectores como turismo, salud y comercio  
-🛠️ Me especializo en **Vue.js**, **Laravel**, **Node.js**, y el diseño de APIs escalables  
-🚀 Apasionado por las buenas prácticas, la automatización y la mejora continua  
+🌟 Enamorado de **JavaScript** y su ecosistema, desde el frontend hasta el backend  
+🚀 Mis principales destrezas están en **Vue.js**, **Laravel**, **Node.js** y **Express.js**  
+📦 Experiencia construyendo plataformas SaaS modulares, APIs REST y sistemas escalables para startups  
+🛠️ Apasionado por las buenas prácticas, la automatización, la escalabilidad y el rendimiento  
+🌎 He trabajado en sectores como turismo, salud, e-commerce y tecnología  
 📫 Contacto directo: [jhjacoz96@gmail.com](mailto:jhjacoz96@gmail.com)
 
 ---
@@ -31,7 +33,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,laravel,php,nodejs,js,ts,html,css,tailwind,mysql,mongodb,git,docker,vscode,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,laravel,php,nodejs,express,html,css,tailwind,mysql,mongodb,git,docker,vscode,postman&perline=10" />
   </a>
 </p>
 
